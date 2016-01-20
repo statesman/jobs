@@ -11,5 +11,5 @@ Past alums and contributors:
 * [Andrew Chavez](https://github.com/achavez) (2014-09 to 2015-12): Moved to be computational journalist for the Dallas Morning News.
 * Roberto Villalpando is now Breaking News Editor for the Statesman.
 * Wynne Davis was as an intern, Fall 2014.
-* Beth Neval-Cortex served as an intern
-* Ann Choi served as an intern
+* Beth Cortez-Neavel was an intern in Spring 2014. She is a freelance journalist in Austin.
+* Ann Choi interned in Fall 2013. She is currently at Newsday.
