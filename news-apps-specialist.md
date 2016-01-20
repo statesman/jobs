@@ -1,11 +1,11 @@
 Senior News Apps Specialist
 ============================
 
-I'm looking for a news apps developer to join our team at the Statesman. We've done some incredible work lately, and now it's time to build upon that with more, better and different. If you have interest, please fill out the official application.
-
 Here is a job description:
 
 The Statesman is looking for a news applications specialist for the interactives team. This developer journalist will work with reporters, editors and other team members to design and build interactive graphics, data visualizations and news applications to support journalism ventures.
+
+~~If you have interest, please fill out the official application.~~
 
 Our projects vary in scope, platform and content:
 
@@ -22,7 +22,7 @@ You can see a lot of our [code in Github](https://github.com/statesman).
 * Work as part of a newsroom team to bring our most important stories to our readers in a compelling way across all our various digital platforms.
 * Develop, code, test and debug news apps for mobile and wired platforms.
 * Share and expand knowledge with other team members, and to learn from the experience of others.
-* Research new technology and best practices and tools and analyze for best fit, usage, stability and performance.
+* Research new technology, best practices and tools and analyze for best fit, usage, stability and performance.
 * Communicate with both technical and non-technical colleagues to serve as a bridge between content and digital design of applications and visualizations.
 * Some reporting and contacting sources for data and information.
 
