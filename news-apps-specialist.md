@@ -5,7 +5,7 @@ Here is a job description:
 
 The Statesman is looking for a news applications specialist for the interactives team. This developer journalist will work with reporters, editors and other team members to design and build interactive graphics, data visualizations and news applications to support journalism ventures.
 
-~~If you have interest, please fill out the official application.~~
+If you have interest, please fill out the [official application](https://cox.taleo.net/careersection/cox_externalcareers/jobdetail.ftl?job=160505&lang=en&sns_id=mailto).
 
 Our projects vary in scope, platform and content:
 
