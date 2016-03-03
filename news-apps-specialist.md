@@ -7,7 +7,7 @@ Here is a job description:
 
 The Statesman is looking for a news ~~applications specialist~~ web developer for the interactives team. This developer journalist will work with reporters, editors and other team members to design and build interactive graphics, data visualizations and news applications to support journalism ventures.
 
-Our [team](../) is a "full stack" team in we do a bit of everything, but our greatest need for this position is javascript MVC experience in Backbone.js or similar frameworks.
+Our [team](../) is a "full stack" team where we do a bit of everything, but our greatest need for this position is javascript MVC experience in Backbone.js or similar frameworks.
 
 If you have interest, please fill out the [official application](https://cox.taleo.net/careersection/cox_externalcareers/jobdetail.ftl?job=160505&lang=en&sns_id=mailto).
 
