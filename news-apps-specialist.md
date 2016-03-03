@@ -33,7 +33,7 @@ You can see a lot of our [code in Github](https://github.com/statesman).
 ## SKILLS & EXPERIENCE:
 
 * Understanding of data structures and database management.
-* Familiarity with web API’s and common data visualization libraries
+* Familiarity with web API’s and common data visualization libraries.
 * Demonstrated ability to turn concepts into user-focused apps using HTLM5/CSS3/Javascript. We use Node.js for package management, PHP/WordPress, Python and Django. While experience in these areas is preferred, we recognize developers are adaptable, and so are we.
 * Special consideration will be given to javascript skills using MVC-based frameworks like backbone.js, React, Angular and the like.
 
