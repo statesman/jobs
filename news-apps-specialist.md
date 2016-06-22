@@ -1,6 +1,9 @@
 News web developer
 ============================
 
+
+## This position is filled as of June 2016!
+
 aka: News Apps Specialist
 
 Here is a job description:
