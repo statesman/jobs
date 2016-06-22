@@ -1,7 +1,7 @@
 Statesman Interactives Team
 ============================
 
-## The Statesman team
+## Current team
 
 * [Christian McDonald](https://github.com/critmcdonald), online projects and data editor
 * [Cody Winchester](https://github.com/cjwinchester), news applications specialist
