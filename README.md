@@ -6,9 +6,9 @@ Statesman Interactives Team
 * [Christian McDonald](https://github.com/critmcdonald), online projects and data editor
 * [Cody Winchester](https://github.com/cjwinchester), news applications specialist
 * [Dan Hill](https://github.com/danhillreports), news applications specialist
-* [Adam Humphrey](https://github.com/AdamHumphrey), intern
 
 ### Past alums and contributors
+* [Adam Humphrey](https://github.com/AdamHumphrey), intern summer 2015. Now at National Instruments.
 * [Andrew Chavez](https://github.com/achavez) (2014-09 to 2015-12): Moved to be computational journalist for the Dallas Morning News.
 * Roberto Villalpando is now Breaking News Editor for the Statesman.
 * Wynne Davis was as an intern, Fall 2014.
