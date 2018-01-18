@@ -4,7 +4,7 @@ Statesman Interactives Team
 ## Current team
 
 * [Christian McDonald](https://github.com/critmcdonald), online projects and data editor
-* [Dan Hill](https://github.com/danhillreports), news applications specialist
+* [Dan Keemahill](https://github.com/dankeemahill), news applications specialist
 
 ### Past alums and contributors
 * [Olivia Krauth](https://twitter.com/oliviakrauth), intern summer 2017. Now at [@TechRepublic](https://twitter.com/TechRepublic)
