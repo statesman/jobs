@@ -3,15 +3,15 @@ Statesman Interactives Team
 
 ## Current team
 
-* [Christian McDonald](https://github.com/critmcdonald), online projects and data editor
-* [Dan Keemahill](https://github.com/dankeemahill), news applications specialist
+* [Dan Keemahill](https://github.com/dankeemahill) has been a developer since 2016.
 
-### Past alums and contributors
-* [Olivia Krauth](https://twitter.com/oliviakrauth), intern summer 2017. Now at [@TechRepublic](https://twitter.com/TechRepublic)
-* [Cody Winchester](https://github.com/cjwinchester), (2016-02 to 2017-03): Now an IRE training director.
-* [Adam Humphrey](https://github.com/AdamHumphrey), intern summer 2015. Now at National Instruments.
-* [Andrew Chavez](https://github.com/achavez) (2014-09 to 2015-12): Moved to be computational journalist for the Dallas Morning News.
-* Roberto Villalpando is now Breaking News Editor for the Statesman.
-* Wynne Davis was as an intern, Fall 2014.
-* Beth Cortez-Neavel was an intern in Spring 2014. She is a freelance journalist in Austin.
-* Ann Choi interned in Fall 2013. She is currently at Newsday.
+### Interactives Exes
+* [Christian McDonald](https://github.com/critmcdonald) was the online projects and data editor.
+* [Olivia Krauth](https://twitter.com/oliviakrauth) interned in Summer 2017.
+* [Cody Winchester](https://github.com/cjwinchester) was a developer in 2016 and 2017.
+* [Adam Humphrey](https://github.com/AdamHumphrey) interned in Summer 2015.
+* [Andrew Chavez](https://github.com/achavez) was a developer in 2014 and 2015.
+* [Roberto Villalpando](https://twitter.com/daddyrobot) is now Breaking News Editor for the Statesman.
+* [Wynne Davis](https://twitter.com/wynneellyn) interned in Fall 2014.
+* [Beth Cortez-Neavel](https://twitter.com/ecortez_neavel) interned in Spring 2014.
+* [Ann Choi](https://twitter.com/annjychoi) interned in Fall 2013.
